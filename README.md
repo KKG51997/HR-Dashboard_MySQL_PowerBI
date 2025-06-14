@@ -18,7 +18,7 @@ Data Visualization - PowerBI
 7. What is the distribution of job titles across the company?
 8. Which department has the highest turnover rate?
 9. What is the distribution of employees across locations by state?
-10.   How has the company's employee count changed over time based on hire and term dates?
+10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 
 ## Summary of Findings
